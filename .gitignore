@@ -2,4 +2,4 @@
 *.log
 
 # but track a.log file
-!a.log
+# !a.log
