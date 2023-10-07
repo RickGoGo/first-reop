@@ -1,2 +1,5 @@
 # ignore all .log files
 *.log
+
+# but track a.log file
+!a.log
