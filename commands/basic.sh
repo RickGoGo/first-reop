@@ -2,3 +2,6 @@
 # Usage: git revert <remote> <branch> <commit>
 # Example: git revert origin master 1234567890abcdef
 git revert <commit>
+
+
+#did a hotfix in hotfix branch.
